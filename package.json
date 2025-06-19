@@ -1,5 +1,5 @@
 {
-  "name": "@flowefy/macher-ui",
+  "name": "macher-ui",
   "version": "1.0.0",
   "main": "dist/macher-ui.umd.js",
   "module": "dist/macher-ui.es.js",
@@ -25,7 +25,8 @@
   "author": "CGWebDev (Colin Grahm)",
   "license": "SEE LICENSE IN LICENSE",
   "description": "Macher UI is a responsive, component-based UI framework developed by flowefy – specifically for modern web projects with a focus on aesthetics, performance and flexibility.",
-  "reposit"
+  "homepage": "https://flowefy.de/macher-ui",
+  "repository": "https://github.com/flowefy/macher-ui.git",
   "dependencies": {
     "@griffel/react": "^1.5.30",
     "react": "^18.0.0",

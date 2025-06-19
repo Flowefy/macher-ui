@@ -2,8 +2,6 @@ import { makeStyles } from '@griffel/react';
 
 const useStyles = makeStyles({
   root: {
-    width: '100%',
-    height: '4.5rem',
     backgroundColor: 'black',
     color: 'white',
     padding: '1rem',

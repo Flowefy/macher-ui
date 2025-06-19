@@ -17,7 +17,7 @@
 ## Installation
 
 ```bash
-npm install @flowefy/macher-ui
+npm install macher-ui
 ```
 
 ## Beispiel
