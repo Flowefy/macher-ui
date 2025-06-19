@@ -1,0 +1,43 @@
+{
+  "name": "@flowefy/macher-ui",
+  "version": "1.0.0",
+  "main": "dist/macher-ui.umd.js",
+  "module": "dist/macher-ui.es.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "flowefy.",
+    "macher-ui",
+    "react",
+    "ui",
+    "library",
+    "framework",
+    "css",
+    "JavaScript",
+    "js"
+  ],
+  "author": "CGWebDev (Colin Grahm)",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Macher UI is a responsive, component-based UI framework developed by flowefy – specifically for modern web projects with a focus on aesthetics, performance and flexibility.",
+  "reposit"
+  "dependencies": {
+    "@griffel/react": "^1.5.30",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@griffel/babel-preset": "^1.6.7",
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
