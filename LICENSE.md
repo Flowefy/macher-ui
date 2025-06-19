@@ -1,6 +1,6 @@
 **Copyright (c) 2025 Colin Grahm - Colin Grahm Media & Commerce**
 
-*Alle Rechte vorbehalten.*
+> *Alle Rechte vorbehalten.*
 
 ### 1. Lizenzgewährung
 
